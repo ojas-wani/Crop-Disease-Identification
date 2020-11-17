@@ -4,7 +4,8 @@ I build a Machine Learning model to detect disease of the different crops throug
 ## Table of contents
 * [Tools and Technologies](#tools-and-technologies)
 * [Screenshots](#screenshots)
-* [Resources](#resources)
+
+- [Dataset](https://drive.google.com/drive/folders/1jzetfrDAWJnx6uiF5xtZFzmFDezGPORs?usp=sharing)
 
 ## Tools and Technologies
 * Google Colab, Jupyter Notebook
@@ -21,6 +22,3 @@ I build a Machine Learning model to detect disease of the different crops throug
 
 #### Result
 <img src="/images/result.png" width="800" height="500"/>
-
-## Resources
-- [Dataset](https://drive.google.com/drive/folders/1jzetfrDAWJnx6uiF5xtZFzmFDezGPORs?usp=sharing)
