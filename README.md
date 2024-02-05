@@ -5,7 +5,8 @@ A deep learning model to detect disease of the different crops through the photo
 * [Tools and Technologies](#tools-and-technologies)
 * [Screenshots](#screenshots)
 
-- [Dataset](https://drive.google.com/drive/folders/1jzetfrDAWJnx6uiF5xtZFzmFDezGPORs?usp=sharing)
+## Dataset
+https://drive.google.com/drive/folders/1jzetfrDAWJnx6uiF5xtZFzmFDezGPORs?usp=sharing
 
 ## Tools and Technologies
 * Google Colab, Jupyter Notebook
