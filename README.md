@@ -1,5 +1,5 @@
 # Crop-Disease-Identification
-I build a Machine Learning model to detect disease of the different crops through the photos of their leaves.
+A deep learning model to detect disease of the different crops through the photos of their leaves.
 
 ## Table of contents
 * [Tools and Technologies](#tools-and-technologies)
@@ -10,11 +10,11 @@ I build a Machine Learning model to detect disease of the different crops throug
 ## Tools and Technologies
 * Google Colab, Jupyter Notebook
 * Python 3
-* Tensorlow
+* TensorFlow
 * Keras
 
 ## Screenshots
-#### ML Model
+#### Neural Network
 <img src="/images/model.png" width="600" height="500"/>
 
 #### Training->Validation Accuracy Graph
